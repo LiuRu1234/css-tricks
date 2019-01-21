@@ -2,7 +2,7 @@ module.exports = {
   title: 'css tricks',
   description: 'some css tricks, 一些常用的css样式, 一点css技巧',
   dest: './dist', // 设置输出目录
-  base: '/css_tricks/',
+  base: '/css-tricks/',
   head: [
     ['link', { rel: 'icon', href: '/images/favicon.png' }],
     ['meta', { name: 'theme-color', content: '#00adb5' }],
@@ -13,23 +13,15 @@ module.exports = {
     ['meta', { itemprop: 'name', content: 'css_trick' }],
     ['meta', { itemprop: 'image', content: '/css_tricks/images/favicon.png' }],
   ],
-  repo: 'https://qishaoxuan.github.io/css_tricks/', // 添加 github 链接
+  repo: 'https://github.com/LiuRu1234/css-tricks/', // 添加 github 链接
   themeConfig: {
     themeConfig: {
       lastUpdated: 'Last Updated',
     },
     nav: [
-      // {
-      //   text: 'js tricks',
-      //   link: 'https://qishaoxuan.github.io/js_tricks/'
-      // },
-      // {
-      //   text: 'blog',
-      //   link: 'https://qishaoxuan.github.io/blog/'
-      // },
       {
         text: 'GitHub',
-        link: 'https://github.com/QiShaoXuan/css_tricks'
+        link: 'https://github.com/LiuRu1234/css-tricks'
       },
     ],
     sidebar: [

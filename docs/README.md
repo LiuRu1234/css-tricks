@@ -11,7 +11,7 @@
 
 ## 快速开始 Quick start
 
-<!-- - Clone the `https://github.com/QiShaoXuan/css_tricks.git` -->
+- Clone the `https://github.com/LiuRu1234/css-tricks.git`
 - Install package `npm install`
 - Development run `npm run docs:dev`
 - Open `http://localhost:8080` in your browser.
