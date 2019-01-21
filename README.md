@@ -5,13 +5,11 @@
 - 总结一些常用的 CSS 样式
 - 记录一些 CSS 的新属性和一点奇技淫巧
 
-尽量少说废话，代码简单易用，方便复制
-
-> talk is cheap show me the code
+> 代码简单易用，方便复制
 
 ## 在线查看 View online
 
-<a href="https://github.com/LiuRu1234/css-tricks/" target="_blank">css tricks</a>
+<a href="https://liuru1234.github.io/css-tricks/" target="_blank">css tricks</a>
 
 ## 快速开始 Quick start
 

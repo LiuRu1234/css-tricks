@@ -5,9 +5,7 @@
 - 总结一些常用的 css 样式
 - 记录一些 css 的新属性和一点奇技淫巧
 
-尽量少说废话，代码简单易用，方便复制
-
-> talk is cheap show me the code
+> 代码简单易用，方便复制
 
 ## 快速开始 Quick start
 
@@ -26,7 +24,4 @@
 - Submit a pull request
 
 or submit an issue, any helpful suggestions are welcomed
-
-<!-- ## js tricks
-<a href="https://qishaoxuan.github.io/js_tricks/" target="_blank">view online</a> -->
 
